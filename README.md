@@ -69,7 +69,7 @@ Aleksios Gialamas, Bachelor of Industrial Management, University of Pireaus, Gre
 •	I don't understand what some of the titles mean.
 •	Add some instructions above the filters, for example Filter by year.
 •	The colour of the background is horrible.
-•	Add some slides before each page to show what the next page is about. Maybe add some explanation as well.
+•	Add some slides before each page to show what the next page is about. Maybe add some explanation as well. (Done)
 
 
 Resources
