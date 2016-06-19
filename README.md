@@ -48,7 +48,7 @@ Years: This represents the casualties and the results, divided by years, and gro
 Statistics: represents some interesting statistics that are able to be filtered by certain groups.
 
 
-Feedback
+Feedback:
 Jeffry Mozalbat, Student of Software Science at Technical University of Eindhoven:
 In general terms the visualization is good. Once you read the titles of the charts, it is clear what is shown on it. To improve I would suggest the following:
 •	Make clear what each section is. (done)
@@ -56,14 +56,14 @@ In general terms the visualization is good. Once you read the titles of the char
 •	Change the numbering in the top 10 to regular numbers, instead of 50k to show 50000. (done)
 •	In the Years section make the titles clearer of what is shown. (done)
 
-Dimitrios Giotis, BSc in Statistics, financial and actuarial mathematics, University of Aegean, Greece
+Dimitrios Giotis, BSc in Statistics, financial and actuarial mathematics, University of Aegean, Greece:
 
 •	Add calculation for average casualties per year in the year page. (not done)
 •	In the year page again, add data labels on the second chart. (done)
 •	Change the labels to give more understandable information. (done)
 
 
-Aleksios Gialamas, Bachelor of Industrial Management, University of Pireaus, Greeece & Bachelor of Arts, Kraków Academy of Fine Arts, Poland.
+Aleksios Gialamas, Bachelor of Industrial Management, University of Pireaus, Greeece & Bachelor of Arts, Kraków Academy of Fine Arts, Poland:
 
 •	I don't understand what some of the titles mean. (Done)
 •	Add some instructions above the filters, for example Filter by year. (Done)
@@ -71,6 +71,6 @@ Aleksios Gialamas, Bachelor of Industrial Management, University of Pireaus, Gre
 •	Add some slides before each page to show what the next page is about. Maybe add some explanation as well. (Done)
 
 
-Resources
+Resources:
 The main tools used for this project is Microsoft Power Bi for the creation of the visualizations, Power Bi service for hosting of the visualization, and finally Microsoft Excel for data transformation. Due to the use of the Power Bi hosting service I deemed it unnecessary to create a specific Git repository.
 
