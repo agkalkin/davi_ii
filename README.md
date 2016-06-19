@@ -49,15 +49,26 @@ Statistics: represents some interesting statistics that are able to be filtered 
 
 
 Feedback
-
 Jeffry Mozalbat, Student of Software Science at Technical University of Eindhoven:
 In general terms the visualization is good. Once you read the titles of the charts, it is clear what is shown on it. To improve I would suggest the following:
-•	Make clear what each section is.
-•	Be more specific about the class filter. If you don’t explain that A is important and D is the least important, it is not that clear.
-•	Change the numbering in the top 10 to regular numbers, instead of 50k to show 50000.
-•	In the Years section make the titles clearer of what is shown.
+•	Make clear what each section is. (done)
+•	Be more specific about the class filter. If you don’t explain that A is important and D is the least important, it is not that clear. (done)
+•	Change the numbering in the top 10 to regular numbers, instead of 50k to show 50000. (done)
+•	In the Years section make the titles clearer of what is shown. (done)
 
-Dimitrios Giotis, 
+Dimitrios Giotis, BSc in Statistics, financial and actuarial mathematics, University of Aegean, Greece
+
+•	Add calculation for average casualties per year in the year page. (not done)
+•	In the year page again, add data labels on the second chart. (done)
+•	Change the labels to give more understandable information. (done)
+
+
+Aleksios Gialamas, Bachelor of Industrial Management, University of Pireaus, Greeece & Bachelor of Arts, Kraków Academy of Fine Arts, Poland.
+
+•	I don't understand what some of the titles mean. (Done)
+•	Add some instructions above the filters, for example Filter by year. (Done)
+•	The colour of the background is horrible. ( I decided not to change it)
+•	Add some slides before each page to show what the next page is about. Maybe add some explanation as well. (Done)
 
 
 Resources
