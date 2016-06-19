@@ -30,7 +30,6 @@ Result: The winner of the battle. This has the following entries:
 •	U = Union Victory
 Furthermore, some measures were created in order to combine some data for additional information (the measures use DAX, a sort of query language). Originally the data set contained additional information such as the Indian commander, Indian Casualties, number of images in the photo gallery of the website, the status of the author’s visit to the battlefields, references and links to civil war Wikipedia pages. But since the main scope of this assignment was to create a visualization of battles between USA and CSA, all that content was removed during processing. Also, the data set was missing some casualty information, so in some cases, the information was manually filled, and in the cases that the information was not found, it was substituted with a zero (0). This done in order to not complicate the calculation of the casualties in the visualization process. Finally, in the result category, the data was replaced from C,I,U to Confederate, Inconclusive, Union in order to make the data easily understandable.
 
-
 Design
 
 The main idea of this visualization was to make it look like an interactive book where you can cycle through the pages. In order to have a certain sense of organization in the visualization of the data set, it was decided that the visualization should be separated into the following categories:
