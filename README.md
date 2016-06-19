@@ -57,7 +57,19 @@ In general terms the visualization is good. Once you read the titles of the char
 •	Change the numbering in the top 10 to regular numbers, instead of 50k to show 50000.
 •	In the Years section make the titles clearer of what is shown.
 
-Dimitrios Giotis, 
+Dimitrios Giotis, BSc in Statistics, financial and actuarial mathematics, University of Aegean, Greece
+
+•	Add calculation for average casualties per year in the year page.
+•	In the year page again, add data labels on the second chart.
+•	Change the labels to give more understandable information.
+
+
+Aleksios Gialamas, Bachelor of Industrial Management, University of Pireaus, Greeece & Bachelor of Arts, Kraków Academy of Fine Arts, Poland.
+
+•	I don't understand what some of the titles mean.
+•	Add some instructions above the filters, for example Filter by year.
+•	The colour of the background is horrible.
+•	Add some slides before each page to show what the next page is about. Maybe add some explanation as well.
 
 
 Resources
