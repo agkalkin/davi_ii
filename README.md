@@ -33,7 +33,7 @@ Furthermore, some measures were created in order to combine some data for additi
 
 Design
 
-The main idea of thisIn order to have a certain sense of organization in the visualization of the data set, it was decided that the visualization should be separated into the following categories:
+The main idea of this visualization was to make it look like an interactive book where you can cycle through the pages. In order to have a certain sense of organization in the visualization of the data set, it was decided that the visualization should be separated into the following categories:
 
 1.	Theatre of War.
 2.	Generals
